@@ -1,0 +1,278 @@
+
+.adopt-img{
+    border-radius: 100%;
+    width: 40%;
+    margin: 30px 30px 0 30px;
+}
+
+.adoption{
+    margin: 10px;
+}
+
+body{
+    background-color: #B3E8E5;
+    font-weight: normal;
+    line-height: 2;
+}
+
+.bullets-point{
+    text-align: left;
+}
+
+.carosel{
+    width: 50%;
+    float: right;
+    display: inline;
+    position: absolute;
+    top: 150px;
+}
+
+.carousel-control-prev{
+    color: purple;
+}
+
+.carousel-control-prev{
+    color:black;
+}
+
+.cost-dogs{
+    border-radius: 100%;
+    width: 50%;
+    margin: 50PX;
+    float:right;
+}
+
+.dog-afford{
+    text-align: center;
+    width: 50%;
+    /* display: inline; */
+}
+
+.diet-img{
+    border-radius: 100%;
+    width: 40%;
+    margin: 30px 30px 0 30px;
+}
+
+.diet{
+    margin: 10px;
+    padding: 0;
+}
+
+.different-dogs{
+    border-radius: 100%;
+    width: 50%;
+    margin: auto;
+    /* padding: 50px 0; */
+    float: left;
+}
+
+.dog-breed{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.d-block{
+    border-radius: 100%;
+    width: 50%;
+    margin-top: 100px;
+}
+
+.dog-parents{
+    text-align: center;
+}
+
+.dog-parents-img{
+    width: 50%;
+    border-radius: 100%;
+    float: left;
+    padding: 20px;
+}
+
+.dog-train{
+    margin-top: 0;
+    text-align: left;
+    width: 50%;
+    float: right;
+}
+
+.dog-train-img{
+    width: 40%;
+    border-radius: 100%;
+    float: left;
+}
+
+.first-container{
+    /* background-color: #318e64; */
+    /* padding: 100px; */
+    margin: 100px;
+}
+
+.fourth-container{
+    /* background-color: crimson; */
+    padding: 100px;
+    display: inline-block;
+}
+
+.fifth-container{
+    /* background-color: darkcyan; */
+    padding: 100px;
+    display: inline-block;
+    position: relative;
+}
+
+.footer{
+    width: 20%;
+    margin: auto;
+    font-size: 1.2rem;
+}
+
+.gromming-img{
+    border-radius: 100%;
+    width: 50%;
+    margin: 30px 30px 0 30px;
+}
+
+.gromming{
+    margin: 10px;
+    padding: 0;
+}
+
+.groom-img{
+    margin-left: 200px;
+}
+
+.grooming-para{
+    width: 50%;
+    float: left;
+    display: inline;
+}
+
+.h1-heading{
+    text-align: center;
+    font-size: 5.2rem;
+    margin: 100px 0 70px;
+    font-family: Sacramento, cursive;
+    color: #2F8F9D;
+}
+
+.h2-heading{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: normal;
+    margin: 50px;
+    color: #3BACB6;
+}
+
+h1{
+    font-size: 4rem;
+    font-weight: normal;
+    color: #2F8F9D;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+h2{
+    margin: 50px;
+    font-weight: bold;
+    color: #3BACB6;
+    text-align: center;
+    font-size: 2rem;
+}
+
+h3{
+    font-weight: normal;
+    color: #005555;
+}
+
+h4{
+    font-family: Merriweather, serif;
+    font-weight: bold;
+    color: #005555;
+}
+
+hr{
+    border-style: dotted none none none;
+    border-width: 7px;
+    border-radius: 100%;
+    width: 20%;
+    margin: 100px auto;
+}
+
+.health-img{
+    border-radius: 100%;
+    width: 40%;
+    margin: 30px 30px 0 30px;
+}
+.health{
+    margin: 10px;
+    padding: 0;
+}
+/* 
+.parents{
+    padding: 50px;
+} */
+
+p{
+    font-family: "Montserrat-Bold";
+    color: #005555;
+    font-size: 1.2rem;
+}
+
+.para{
+    width: 50%;
+    display: inline;
+}
+
+.points{
+    padding: 50px;
+    margin: 50px;
+}
+
+.relationship-img{
+    border-radius: 100%;
+    width: 60%;
+    margin: 25px 10px 10px 30px;
+    
+}
+
+.relationship{
+    margin: 10px;
+    padding: 0;
+}
+
+
+.row{
+    line-height: 2;
+    padding: 100px;
+    /* background-color:pink; */
+}
+
+.second-container{
+    text-align: center;
+    line-height: 2;
+    /* background-color: coral; */
+    padding: 100px;
+}
+
+.third-container{
+    /* background-color: aquamarine; */
+    padding: 100px;
+    line-height: 2;
+}
+
+.training-img{
+    border-radius: 100%;
+    width: 40%;
+    margin: 30px 30px 0 30px;;
+}
+
+.train{
+    margin: 10px;
+    padding: 0;
+}
+
+.topics{
+    padding: 20px 0 50px 0;
+}
